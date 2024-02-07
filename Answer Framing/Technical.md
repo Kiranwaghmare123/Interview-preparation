@@ -65,6 +65,7 @@
     In the example of inheritance, the "Car" class inherits the "color" property and "drive()" 
     method from the "Vehicle" class. 
     This allows instances of the "Car" class to access and use these properties and methods without needing to redefine them.
+![image](https://github.com/Kiranwaghmare123/Interview-preparation/assets/72081819/b742c1fa-1203-4c5d-a62a-a98b7d0e9336)
 ###### Address All Aspects of the Question:
     Explained the concept of inheritance in OOP and provided an example scenario 
     to illustrate how it works.
@@ -92,6 +93,7 @@
     For an example of exception handling, we can use a try-catch block to catch the "FileNotFound" exception when attempting to open a file. 
     Inside the catch block, we can handle the exception by displaying an error message to the user or performing alternative actions, 
     such as creating a new file or asking the user to provide a valid file path.
+![image](https://github.com/Kiranwaghmare123/Interview-preparation/assets/72081819/5963245f-f281-49d9-9a00-9b72392b0658)
 ###### Address All Aspects of the Question:
     Explained the concept of exception handling in programming and provided an example scenario to illustrate how it works.
 ###### Be Open to Feedback:
