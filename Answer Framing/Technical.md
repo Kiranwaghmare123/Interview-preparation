@@ -51,16 +51,23 @@
     Then, explain the concept using an example scenario.
     Finally, summarize the key points.
 ###### Provide Context:
-    Inheritance is a fundamental concept in OOP where a class (subclass or child class) inherits properties and behaviors (methods) from another class (superclass or parent class). This allows for code reuse and the creation of a hierarchy of classes.
+    Inheritance is a fundamental concept in OOP where a class (subclass or child class) 
+    inherits properties and behaviors (methods) from another class (superclass or parent class).
+    This allows for code reuse and the creation of a hierarchy of classes.
 ###### State Your Answer Clearly:
-    Inheritance in OOP allows a subclass to inherit properties and behaviors from a superclass, enabling code reuse and promoting the principle of "is-a" relationships.
-    An example of inheritance is a superclass "Vehicle" with properties such as "color" and methods such as "drive()."
-    A subclass "Car" can inherit these properties and methods from the "Vehicle" class while also adding its own unique properties and methods specific to cars, such as "numberOfDoors" and "accelerate()."
+    Inheritance in OOP allows a subclass to inherit properties and behaviors from a superclass, 
+    enabling code reuse and promoting the principle of "is-a" relationships.
+    An example of inheritance is a superclass "Vehicle" with properties such as "color" 
+    and methods such as "drive()."
+    A subclass "Car" can inherit these properties and methods from the "Vehicle" class 
+    while also adding its unique properties and methods specific to cars, such as "numberOfDoors" and "accelerate()."
 ###### Support Your Answer with Evidence:
-    In the example of inheritance, the "Car" class inherits the "color" property and "drive()" method from the "Vehicle" class. 
+    In the example of inheritance, the "Car" class inherits the "color" property and "drive()" 
+    method from the "Vehicle" class. 
     This allows instances of the "Car" class to access and use these properties and methods without needing to redefine them.
 ###### Address All Aspects of the Question:
-    Explained the concept of inheritance in OOP and provided an example scenario to illustrate how it works.
+    Explained the concept of inheritance in OOP and provided an example scenario 
+    to illustrate how it works.
 ###### Be open for Feedback:
     Listen carefully.
 
