@@ -64,7 +64,7 @@
 ###### Be open for Feedback:
     Listen carefully.
 
-# Example 2 : Can you explain the concept of exception handling in programming with an example?"
+# Example 2: Can you explain the concept of exception handling in programming with an example?"
 
 ###### Understand the Question:
     The question is asking for an explanation of the concept of exception handling in programming along with an example.
@@ -90,7 +90,7 @@
 ###### Be Open to Feedback:
     Listen carefully.
 
-# Example:Can you explain the concept of multithreading in programming with an example?"
+# Example 3:Can you explain the concept of multithreading in programming with an example?"
 
 ###### Understand the Question:
     The question is asking for an explanation of the concept of multithreading in programming along with an example.
@@ -103,8 +103,6 @@
 ###### Provide Context:
     Multithreading is a programming technique that allows multiple threads to execute concurrently within a single process. 
     It enables parallel execution of tasks, leading to improved performance and responsiveness in applications.
-![image](https://github.com/Kiranwaghmare123/Interview-preparation/assets/72081819/32f22ae3-6b3c-4737-b043-b56fffac405b)
-
 ###### State Your Answer Clearly:
     Multithreading in programming involves the concurrent execution of multiple threads within a single process, 
     enabling parallelism and improved performance.
@@ -114,6 +112,7 @@
 ###### Support Your Answer with Evidence:
     In the example of multithreading in a web server, each incoming client request is assigned to a separate thread for processing. 
     This allows the server to handle multiple client requests concurrently, improving responsiveness and scalability.
+![image](https://github.com/Kiranwaghmare123/Interview-preparation/assets/72081819/0871a848-4be4-468f-99cb-4ca02b999e35)
 ###### Address All Aspects of the Question:
      Explained the concept of multithreading in programming and provided an example scenario to illustrate how it works.
 ###### Be Open to Feedback:
